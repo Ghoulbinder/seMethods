@@ -5,3 +5,6 @@ Update 07/02/23
 [![LICENSE](https://img.shields.io/github/license/Ghoulbinder/seMethods.svg?style=flat-square)](https://github.com/Ghoulbinder/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/Ghoulbinder/all.svg?style=flat-square)](https://github.com/Ghoulbinder/sem/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Ghoulbinder/seMethods/main.yml/develop?style=flat-square)
