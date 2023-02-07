@@ -1,7 +1,7 @@
 Read this. I will add more later.
 Update 07/02/23
 # Software Engineering Methods
-![GitHub Workflow Status (branch)] (https://img.shields.io/github/actions/workflow/status/Ghoulbinder/seMethods/main.yml)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Ghoulbinder/seMethods/main.yml)
 
 ![workflow](https://github.com/Ghoulbinder/seMethods/actions/workflows/main.yml/badge.svg)
 
