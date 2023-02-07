@@ -4,4 +4,4 @@ Update 07/02/23
 
 [![LICENSE](https://img.shields.io/github/license/Ghoulbinder/seMethods.svg?style=flat-square)](https://github.com/Ghoulbinder/sem/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/Ghoulbinder/sem/seMethods.svg?style=flat-square)](https://github.com/Ghoulbinder/sem/releases)
+[![Releases](https://img.shields.io/github/release/Ghoulbinder/seMethods.svg?style=flat-square)](https://github.com/Ghoulbinder/sem/releases)
